@@ -163,7 +163,7 @@ body {
   position: relative; }
 
 .gameLoad {
-  background-image: url(../../../assets/flight-app-EN.gif);
+  background-image: url(../../assets/flight-app-EN.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top left;
@@ -284,7 +284,7 @@ body {
 
 main {
   background-color: #b5dbf2;
-  background-image: url(../../../assets/world-map.jpg);
+  background-image: url(../../assets/world-map.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
